@@ -30,6 +30,5 @@ typedef NS_ENUM(NSInteger, OrganizationNodeAction) {
 @property (nonatomic, assign) OrganizationNodeState state; //结点状态~
 
 
-- (NSMutableArray *)configureOrgTree;
 
 @end
